@@ -1,1 +1,0 @@
-powershell -ExecutionPolicy Bypass -File "%~dp0sysmon.ps1"
